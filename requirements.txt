@@ -1,0 +1,6 @@
+transformers
+requests
+beautifulsoup4
+sentence-transformers
+vaderSentiment
+textblob
